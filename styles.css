@@ -1,0 +1,78 @@
+body{
+    /* font-family: 'Roboto', sans-serif; */
+    background-color: rgb(240, 218, 240);
+    
+}
+
+.red div{
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    padding: 10px;
+    color: black;   
+   
+}
+.red{
+ 
+    background-color:  rgb(145, 98, 98);;
+    padding: 8px;
+    color: black; }
+
+#about{
+    font-family: 'Alkalami', serif;
+    text-align: center;
+    border: 20px;
+    color: rgb(96, 60, 13);
+}
+#Work{
+    font-family: 'Alkalami', serif;
+    text-align: center;
+    border: 20px; 
+    color: rgb(96, 60, 13);
+}
+#resume{
+    font-family: 'Alkalami', serif;
+    text-align: center;
+    border: 20px;
+    color: rgb(96, 60, 13);
+}
+#contact{
+    font-family: 'Alkalami', serif;
+    text-align: center;
+    border: 20px;
+    color: rgb(96, 60, 13);
+}
+ 
+#home{
+    font-family: 'Alkalami', serif;
+    text-align: center;
+    border: 20px;
+    color: rgb(96, 60, 13);
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+footer{
+    text-align: end;
+}
+form{
+    border: 1px solid black;
+    padding: 20px;
+    background-color: beige;
+    border-radius: 6px;
+}
+img{
+    border:1px blanchedalmond solid;
+    height: 18cm;
+    width: 100%;
+ 
+    
+}
+#apple{
+    border: 5px solid brown;
+    /* padding: 20px; */
+    background-color: white;
+    border-radius: 6px;
+}
+}
